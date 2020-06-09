@@ -1,6 +1,4 @@
-= redmine_email_notify
-
-## Redmine email notify plugin
+= Redmine email notify plugin
 
 This plugin is designed to send an email to a mailing list
 each time a ticket etc is created or updated.
